@@ -18,3 +18,5 @@ GitHub Actions
 Terraform Apply
 
 Author: Shreyash Mohapatra
+
+Change deployed through GitOps workflow.
